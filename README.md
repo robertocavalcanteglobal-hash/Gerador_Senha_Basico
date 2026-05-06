@@ -1,4 +1,4 @@
-Sendo iniciado a capacitação em Pyhton.
+Sendo iniciado a capacitação em Python.
 Primeira criação básica.
 
 
