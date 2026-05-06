@@ -1,5 +1,5 @@
 Sendo iniciado a capacitação em Pyhton.
-Primeira criação básico
+Primeira criação básica.
 
 
 
